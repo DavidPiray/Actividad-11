@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<countries>
+   <country name="Paraguay">
+      <firstname>Paraguay</firstname>
+       <Females>3,580,888</Females>
+    <Males>3,463,751</Males>
+    <Total>3,580,88+3,463,751</Total>
+   </country>
+   <employee empid="4932">
+      <firstname>Thomas</firstname>
+      <lastname>Longdorf</lastname>
+      <nickname>Thom</nickname>
+      <salary>95000</salary>
+   </employee>
+   <employee empid="5935">
+      <firstname>Nicola</firstname>
+      <lastname>Tesla</lastname>
+      <nickname>Nico</nickname>
+      <salary>90000</salary>
+   </employee>
+</countries>
