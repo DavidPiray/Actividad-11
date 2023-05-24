@@ -2,8 +2,7 @@ package net.osgg.xmlsaxparser;
 
 
 /**
- * Nombre: John Ichina - 7180
- * Semestre: Quinto 1 Software
+ * Nombre: David Piray - 7205
 */
 public class App 
 {
